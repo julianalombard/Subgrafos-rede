@@ -91,4 +91,4 @@ A coluna `subgrafo` criada pelo script permite que você realize análises poste
 
 MIT License 
 
-Citation: SOUZA, J.L. (2026) Identificador e Classificador de Subgrafos de Rede [Data set]. Zenodo. https://doi.org/10.5281/zenodo.19133714
+Citation: SOUZA, J.L. (2026) Identificador e Classificador de Subgrafos de Rede [Data set]. Zenodo. https://doi.org/10.5281/zenodo.19133713
